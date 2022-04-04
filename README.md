@@ -1,6 +1,6 @@
 # Real-Time-Circles
 
-http://real-time-circles.herokuapp.com
+https://real-time-circles.herokuapp.com
 
 This is a sample project using socket io, node, express, and javascript.
 
